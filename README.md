@@ -1,7 +1,7 @@
 # Food-Responsive-Web-Template
 Responsive Web Template Using HTML, CSS, JS
 
-## Screenshots 📱 
+## Screenshots 🖥️ 
 Home:
 ![](https://github.com/Chafithafid30/Food-Responsive-Web-Template/blob/master/Home.png)
 
